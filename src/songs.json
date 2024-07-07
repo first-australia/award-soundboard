@@ -52,6 +52,48 @@
     "runtime": 169
   },
   {
+    "artist": "Shakira",
+    "title": " Waka Waka (This time for Africa)",
+    "path": "/clips/Shakira - Waka Waka (Cut).mp3",
+    "copyright": true,
+    "runtime": 96
+  },
+  {
+    "artist": "Baby Shark",
+    "title": " Baby Shark",
+    "path": "/clips/baby shark (Cut).mp3",
+    "copyright": true,
+    "runtime": 79
+  },
+  {
+    "artist": "Avicii",
+    "title": " Wake me up",
+    "path": "/clips/Avicii - Wake Me Up (Cut).mp3",
+    "copyright": true,
+    "runtime": 57
+  },
+  {
+    "artist": "Måneskin",
+    "title": " Zitti e Buoni",
+    "path": "/clips/Måneskin - ZITTI E BUONI (Cut).mp3",
+    "copyright": true,
+    "runtime": 151
+  },
+  {
+    "artist": "Neil Diamond",
+    "title": " Sweet Caroline",
+    "path": "/clips/Neil Diamond - Sweet Caroline (Cut).mp3",
+    "copyright": true,
+    "runtime": 67
+  },
+  {
+    "artist": "Måns Zelmerlow",
+    "title": " Heroes",
+    "path": "/clips/Mans Zelmerlow - Heroes (Cut).mp3",
+    "copyright": true,
+    "runtime": 74
+  },
+  {
     "header": "Robot Design awards"
   },
   {
@@ -275,6 +317,21 @@
     "path": "/clips/Queen - We Are The Champions (Cut).mp3",
     "copyright": true,
     "runtime": 76
+  },
+
+  {
+    "artist": "Jimmy Demers",
+    "title": " Inspire the World (Cut)",
+    "path": "/clips/Inspire the World (Cut).mp3",
+    "copyright": true,
+    "runtime": 63
+  },
+  {
+    "artist": "Jimmy Demers",
+    "title": " Inspire the World (Full)",
+    "path": "/clips/Inspire the World.mp3",
+    "copyright": true,
+    "runtime": 150
   },
   {
     "header": "Royalty free"
